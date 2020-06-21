@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: Hillayes Upstart
+
+  server:
+    port: ${PORT:8080}
+    cors:
+      enabled: true

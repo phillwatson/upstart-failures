@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.hillayes.upstart
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, data, data-jpa, docker, flyway, h2, hibernate-validator, http-client, java, java-application, jax-rs, jdbc-hikari, junit, logback, maven, netty-server, readme, security-jwt, shade, yaml]
